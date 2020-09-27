@@ -29,7 +29,7 @@ namespace LabExersice
             adr.setCityName("Bangalore");
             
             Console.WriteLine("Emp streetName is = "+adr.getStreetName());
-            Console.WriteLine("Emp cityName is = "+adr.getCityName());
+            Console.WriteLine("Emp streetName is = "+adr.getCityName());
         }
     }
 
