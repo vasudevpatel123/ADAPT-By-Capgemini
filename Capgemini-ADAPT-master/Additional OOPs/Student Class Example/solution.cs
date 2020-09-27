@@ -52,9 +52,6 @@ public	class Student
         rollno=r;
     }
     public void output(){
-        Console.WriteLine(rollno);
-        Console.WriteLine(name);
-        Console.WriteLine(address);
-        Console.WriteLine(college);
+        Console.WriteLine(rollno,name,address,college);
     }
 }
